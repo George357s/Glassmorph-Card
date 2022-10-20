@@ -8,3 +8,6 @@ Some of the things I learned from this project is -
 - How to use display flex to adjust items
 - How to use animations to hover effects
 - How to use keyframes for animations
+
+Background Image Made With:
+https://www.svgbackgrounds.com
